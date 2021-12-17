@@ -11,7 +11,7 @@ var config = {
     footer: 'Source: source citations, etc.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: 'intro',
             alignment: 'left',
             hidden: false,
             title: 'This map by Ernest Dudley Chase was published in 1940.......',
